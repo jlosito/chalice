@@ -19,4 +19,4 @@ mock
 types-six
 types-python-dateutil
 types-PyYAML
-attrs<21.5.0
+attrs<22.2.0
